@@ -1,7 +1,5 @@
 # Bank-Customer-Churn-Analysis-using-SQL
 
-# Poverty Analysis in India
-
 An data analytics project analyzing a customer churn dataset of a bank . This project combines Python for data cleaning and Machine Learning using XGBoost along with SQL for a deeper analysis of the churn rate and what co-relations it could have with other factors.
 
 
